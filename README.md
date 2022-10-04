@@ -39,5 +39,5 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=abouhilalbadr&label=Visitors+Count&color=brightblue)
+![](https://komarev.com/ghpvc/?username=abouhilalbadr&label=Visitors+Count&color=blue)
 

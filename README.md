@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=badrabouhilal.com&style=for-the-badge&url=https://badrabouhilal.com)](https://badrabouhilal.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Abouhilalbadr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/abouhilalbadr&screen_name=Abouhilalbadr)
+![](https://komarev.com/ghpvc/?username=abouhilalbadr&label=Visitors+Count&color=blue)
+
 
 ## Creative Designer & Full-stack Developer!!
 
@@ -39,5 +41,4 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=abouhilalbadr&label=Visitors+Count&color=blue)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=5EGFAULT&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)

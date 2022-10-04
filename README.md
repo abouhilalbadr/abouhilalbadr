@@ -36,3 +36,8 @@
 [twitter]: https://twitter.com/AbouhilalBadr
 [instagram]: https://instagram.com/abouhilalbadr
 [linkedin]: https://linkedin.com/in/badr-abouhilal-201774b0
+
+---
+
+![](https://komarev.com/ghpvc/?username=abouhilalbadr&label=Visitors+Count&color=brightblue)
+

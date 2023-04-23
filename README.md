@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=abouhilalbadr&label=Visitors+Count&color=blue)
 
 
-## Creative Designer & Full-stack Developer!!
+## Creative Designer & Front-End Developer!!
 
 - 🔭 I design and code beautifully simple things, and I love what I do.
 - 🌱 I’m currently learning everything 🤣

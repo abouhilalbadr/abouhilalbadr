@@ -10,7 +10,7 @@
 - 🔭 I design and code beautifully simple things, and I love what I do.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Dark mode.
 
 

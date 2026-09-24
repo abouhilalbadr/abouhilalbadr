@@ -95,8 +95,8 @@
 ### GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abouhilalbadr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abouhilalbadr&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=github_dark" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=abouhilalbadr&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abouhilalbadr&hide_border=true&include_all_commits=true&count_private=true&layout=compact&theme=github_dark" />
 </p>
 
 ---
